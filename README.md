@@ -6,7 +6,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6.svg)
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF.svg)
 
+![Dark theme](https://img.shields.io/badge/Theme-Dark%20%2F%20Light-blueviolet)
+
 A clean, minimal web app for converting text to ASCII codes and ASCII codes back to text - instantly, right in your browser.
+
+![Screenshot](assets/screenshot.png)
 
 ## Features
 
